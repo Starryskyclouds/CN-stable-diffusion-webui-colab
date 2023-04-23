@@ -1,25 +1,24 @@
-🐣 Please follow me for new updates https://twitter.com/camenduru <br />
-🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
+🐣 请关注这里新更新 https://twitter.com/camenduru <br />
+🔥 请加入这里的discord服务器 https://discord.gg/k5BwmmvJJU
 
-## 🚨 Important 🚨 According to the [official statement](https://twitter.com/thechrisperry/status/1649189902079381505), the Colab Free of charge tier is not available for the Stable Diffusion WebUI 😭 We can only use it with [any paid plan](https://twitter.com/thechrisperry/status/1649193506957828096) Also, I asked the Colab Team to change the scary 😱 message. https://github.com/googlecolab/colabtools/issues/3591 and [official statement](https://www.reddit.com/r/StableDiffusion/comments/12t8tc7/comment/jh2yhaz/?utm_source=share&utm_medium=web2x&context=3) "No bans planned if you click through (will delete the VMs at some point)"
+## 🚨 重要 🚨 根据 [官方声明](https://twitter.com/thechrisperry/status/1649189902079381505), Colab 免费层不适用于 Stable Diffusion WebUI 😭 我们只能将它与[任何付费计划](https://twitter.com/thechrisperry/status/1649193506957828096) 一起使用另外，我要求 Colab 团队改变可怕的 😱 信息。 https://github.com/googlecolab/colabtools/issues/3591 和 [官方声明](https://www.reddit.com/r/StableDiffusion/comments/12t8tc7/comment/jh2yhaz/?utm_source=share&utm_medium=web2x&context=3) "如果你点击（将在某个时候删除 VM），则不会计划禁止”)"
 
-## How to use DreamBooth & LoRA trainer ?
+## 如何使用 DreamBooth & LoRA 训练器？
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/training <br />
-or please select `training` from `switch branches/tags`
-
+或者请从 `switch branches/tags` 中选择 `training`
 ![Screenshot 2023-03-07 050440](https://user-images.githubusercontent.com/54370274/223300990-73645a89-2ef5-4d4e-94a2-633010779e3e.png)
 
-## How to install latest version and ControlNet to Google Drive ?
+## 如何将最新版本和 ControlNet 安装到 Google Drive？
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/drive <br />
-or please select `drive` from `switch branches/tags`
+或者请从 `switch branches/tags` 中选择 `drive`
 
 ![Screenshot 2023-02-23 165554t](https://user-images.githubusercontent.com/54370274/220930939-1068cd0c-ac29-4a92-9b1d-c67f58f0aff0.png)
 
 <br />
 
-`lite` has a stable WebUI and stable installed extensions. <br />
-`stable` has ControlNet v1.1, a stable WebUI, and stable installed extensions. <br />
-`nightly` has ControlNet v1.1 the latest WebUI with PyTorch 2.0, and daily installed extension updates. <br />
+`lite` 具有稳定的 WebUI 和稳定的已安装扩展。 <br />
+`stable` 具有 ControlNet v1.1、稳定的 WebUI 和稳定的已安装扩展。 <br />
+`nightly` 拥有 ControlNet v1.1 和 PyTorch 2.0 的最新 WebUI，以及每日安装的扩展更新。 <br />
 
 ## 🦒 Colab
 | lite | stable | nightly | Info - Token - Model Page
@@ -175,47 +174,48 @@ or please select `drive` from `switch branches/tags`
 [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/galaxy_time_machines_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/galaxy_time_machines_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/galaxy_time_machines_webui_colab.ipynb) | galaxy_time_machines_webui_colab <br /> (Thanks to HoomanCat for the suggestion ❤) <br /> [galaxytimemachine/galaxytimemachines-gtmultimateblendv3](https://civitai.com/models/4884/galaxytimemachines-gtmultimateblendv3)
 [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/rev_animated_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/rev_animated_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/rev_animated_webui_colab.ipynb) | rev_animated_webui_colab <br /> (Thanks to Koneko❁ུ۪۪♡ for the suggestion ❤) <br /> [s6yx/rev-animated](https://civitai.com/models/7371/rev-animated)
 
-## 🦒 Special Colab
+## 🦒 特别合作社
 | lite | stable | nightly | Info - Token - Model Page
 | --- | --- | --- | --- |
 [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/riffusion_v1_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/riffusion_v1_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/riffusion_v1_webui_colab.ipynb) | riffusion_v1_webui_colab <br /> (Use with `Script -> Riffusion Audio Generator`) <br /> (Thanks to Neverstorm for the suggestion ❤) <br /> [riffusion/riffusion-model-v1](https://huggingface.co/riffusion/riffusion-model-v1)
 [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/pix2pix_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/pix2pix_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/pix2pix_webui_colab.ipynb) | pix2pix_webui_colab <br /> (Thanks to Klace for the [pix2pix extension](https://github.com/Klace/stable-diffusion-webui-instruct-pix2pix) ❤) <br /> [timbrooks/instruct-pix2pix](https://huggingface.co/timbrooks/instruct-pix2pix)
 
-## 🦒 Video Colab
+## 🦒 视频协作
 | lite | stable | nightly | Info - Token - Model Page
 | --- | --- | --- | --- |
 [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/video/lite/stable_diffusion_1_5_video_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/video/stable/stable_diffusion_1_5_video_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/video/nightly/stable_diffusion_1_5_video_webui_colab.ipynb) | stable_diffusion_1_5_video_webui_colab <br /> (Thanks to kabachuha for the fp16 model ❤) <br /> [damo-vilab/modelscope-damo-text-to-video-synthesis](https://huggingface.co/damo-vilab/modelscope-damo-text-to-video-synthesis)
 [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839806-8720fb19-9c7d-46a2-8d7c-de3afb39c11f.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/video/lite/animov_0_1_video_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839804-50c0c18b-3960-4a1c-b7fa-3c7074b11779.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/video/stable/animov_0_1_video_webui_colab.ipynb) | [![Open In Colab](https://user-images.githubusercontent.com/54370274/224839802-95968900-392b-4b30-ad75-aeac13675e1b.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/video/nightly/animov_0_1_video_webui_colab.ipynb) | animov_0_1_video_webui_colab <br /> (Thanks to kabachuha for the fp16 model ❤) <br /> [strangeman3107/animov-0.1](https://huggingface.co/datasets/strangeman3107/animov-0.1)
 
-## Community Colabs
+## 社区合作实验室
 https://github.com/camenduru/stable-diffusion-webui-colab/tree/community <br />
-or please select `community` from `switch branches/tags`
+或者请从 `switch branches/tags` 中选择 `community`
 
 ![Screenshot 2023-02-12 113244](https://user-images.githubusercontent.com/54370274/218300944-a6c67c6a-92a9-441e-84c5-c0f72edf53dd.jpg)
 
-## 🦄 Experimental Colab UI - AI Creator Archive (AICA)
-🚨 These UIs do not contain all the models available in this repository. <br />
-💡 Please feel free to share your ideas in the #aica channel in our [discord](https://discord.gg/k5BwmmvJJU) server
+## 🦄 实验性 Colab UI - AI Creator Archive (AICA)
+🚨 这些 UI 不包含此存储库中可用的所有模型。 <br />
+💡 请随时在我们不和谐服务器的#aica 频道中分享您的想法 [discord](https://discord.gg/k5BwmmvJJU)
 | Table | Grid |
 | --- | --- |
 [![aica.pages.dev](https://user-images.githubusercontent.com/54370274/225216055-3a3bf25d-6c2a-425b-a447-1aa39c9ef4d2.png)](https://aica.pages.dev) | [![aica.vercel.app](https://user-images.githubusercontent.com/54370274/225216036-664b5752-06fa-4510-a4db-2464eb9aa233.png)](https://aica.vercel.app)
 
-## 🐳 Docker
+## 🐳 码头工人
 https://github.com/camenduru/stable-diffusion-webui-docker
 
-## Tutorials
+## 教程
 How to Use: https://youtu.be/ZUbLoMt_wa0 <br />
 How To Use With Google Drive: https://youtu.be/zjeziAAKx-o <br />
+中文版: https://www.bilibili.com/video/BV1rh411E72Z/?vd_source=2a65180bf3a246ad5324f1554a08554e
 How To Use 🤗 Hugging Face Upload Extension: https://youtu.be/KeGpKGzK7R8 <br />
 How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2VwqHN7HDMc <br />
 
-## Stable Diffusion Web UI
+## Stable Diffusion 网络用户界面
 [https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) (Thanks to @AUTOMATIC1111 ❤)
 
-## Documentation
+## 文档
 [https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki)
 
-## Lite Installed Extensions
+## Lite 安装的扩展
 [https://github.com/deforum-art/deforum-for-automatic1111-webui](https://github.com/deforum-art/deforum-for-automatic1111-webui) (Thanks to @deforum-art ❤) <br />
 [https://github.com/yfszzx/stable-diffusion-webui-images-browser](https://github.com/yfszzx/stable-diffusion-webui-images-browser) (Thanks to @yfszzx ❤ @AlUlkesh ❤) <br />
 [https://github.com/camenduru/stable-diffusion-webui-huggingface](https://github.com/camenduru/stable-diffusion-webui-huggingface) <br />
@@ -230,7 +230,7 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://github.com/ashen-sensored/stable-diffusion-webui-two-shot](https://github.com/ashen-sensored/stable-diffusion-webui-two-shot) (Thanks to @opparco ❤  @ashen-sensored ❤) <br />
 [https://github.com/ashen-sensored/sd_webui_stealth_pnginfo](https://github.com/ashen-sensored/sd_webui_stealth_pnginfo) (Thanks to @ashen-sensored ❤ @gitadmin0608 ❤) <br />
 
-## Stable & Nightly & Drive Installed Extensions
+## Stable & Nightly & Drive 安装的扩展
 [https://github.com/deforum-art/deforum-for-automatic1111-webui](https://github.com/deforum-art/deforum-for-automatic1111-webui) (Thanks to @deforum-art ❤) <br />
 [https://github.com/yfszzx/stable-diffusion-webui-images-browser](https://github.com/yfszzx/stable-diffusion-webui-images-browser) (Thanks to @yfszzx ❤ @AlUlkesh ❤) <br />
 [https://github.com/camenduru/stable-diffusion-webui-huggingface](https://github.com/camenduru/stable-diffusion-webui-huggingface) <br />
@@ -251,7 +251,7 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://github.com/ashen-sensored/sd_webui_stealth_pnginfo](https://github.com/ashen-sensored/sd_webui_stealth_pnginfo) (Thanks to @ashen-sensored ❤ @gitadmin0608 ❤) <br />
 [https://github.com/nonnonstop/sd-webui-3d-open-pose-editor](https://github.com/nonnonstop/sd-webui-3d-open-pose-editor) (Thanks to @nonnonstop ❤) <br />
 
-## Video Installed Extensions
+## 视频安装扩展
 [https://github.com/volotat/SD-CN-Animation](https://github.com/volotat/SD-CN-Animation) (Thanks to @volotat ❤)  <br />
 [https://github.com/deforum-art/sd-webui-text2video](https://github.com/deforum-art/sd-webui-text2video) (Thanks to @kabachuha ❤)   <br />
 [https://xanthius.itch.io/multi-frame-rendering-for-stablediffusion](https://xanthius.itch.io/multi-frame-rendering-for-stablediffusion) (Thanks to xanthius ❤)   <br />
@@ -259,14 +259,14 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://github.com/Winfredy/SadTalker](https://github.com/Winfredy/SadTalker) (Thanks to @vinthony ❤)   <br />
 [https://github.com/v8hid/infinite-zoom-automatic1111-webui](https://github.com/v8hid/infinite-zoom-automatic1111-webui) (Thanks to @v8hid ❤)  <br />
 
-## Installed Scripts
+## 安装的脚本
 [https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py](https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py) <br />
 
-## Installed Loras
+## 已安装的 Loras
 [https://civitai.com/models/13941/epinoiseoffset](https://civitai.com/models/13941/epinoiseoffset) (Thanks to epinikion ❤) <br />
 [https://civitai.com/models/16014/anime-lineart-manga-like-style](https://civitai.com/models/16014/anime-lineart-manga-like-style) (Thanks to CyberAIchemist ❤) <br />
 
-## Installed Embeds
+## 安装嵌入
 [https://huggingface.co/Xynon/models](https://huggingface.co/Xynon/models) (Thanks to Xynon ❤) <br />
 [https://huggingface.co/datasets/Nerfgun3/bad_prompt](https://huggingface.co/datasets/Nerfgun3/bad_prompt) (Thanks to Nerfgun3 ❤) <br />
 [https://huggingface.co/yesyeahvh/bad-hands-5](https://huggingface.co/yesyeahvh/bad-hands-5) (Thanks to yesyeahvh ❤) <br />
@@ -274,7 +274,7 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://civitai.com/models/4629/deep-negative-v1x](https://civitai.com/models/4629/deep-negative-v1x) (Thanks to FapMagi ❤) <br />
 [https://huggingface.co/NiXXerHATTER59/bad-artist](https://huggingface.co/NiXXerHATTER59/bad-artist) (Thanks to NiXXerHATTER59 ❤) <br />
 
-## Special Thanks
+## 特别感谢
 Thanks to @UWUplus ❤ (https://github.com/UWUplus/flask-cloudflared/blob/main/flask_cloudflared.py modified) <br />
 Thanks to @thx-pw ❤ (colab memmory fix) <br />
 Thanks to @Daviljoe193 ❤ (colab memmory fix) <br />
@@ -299,5 +299,5 @@ Thanks to @KoukatsuMahoutsukai ❤ (contributor) <br />
 Thanks to @zaedrys ❤ (contributor) <br />
 Thanks to @bdulive ❤ (contributor) <br />
 
-## Models License
+## 模型许可证
 https://huggingface.co/spaces/CompVis/stable-diffusion-license
